@@ -1,4 +1,5 @@
 ---
+title: BullyBash
 layout: default
 nav_title: Home
 ---
