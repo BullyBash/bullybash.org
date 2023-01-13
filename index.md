@@ -20,6 +20,7 @@ We know there is unfathomable ugliness in the world and we give each other actua
 We may also be a *little bit* crazy. 
 
 ## Tweets from BullyBash
+{% include twitter-feed.html %}
 
 ## Contact
-BullyBash organizers can be contacted via email at [contact@bullybash.com](mailto:contact@bullybash.com).
+BullyBash organizers can be contacted via email at [contact@bullybash.com](mailto:contact@bullybash.com) or via Twitter [@BullyBashCLE](https://twitter.com/bullybashcle).
