@@ -4,13 +4,15 @@ nav_title: Home
 ---
 ## What is BullyBash?
 BullyBash is an annual bulldog meetup in Cleveland, Ohio, created by people who met through their dogs on Twitter.
-Activities include everything from bar hopping on a limo bus (with dogs, of course) to bulldog pool parties.
+Activities include everything from limo bus tours (with dogs, of course) to bulldog pool parties.
 And, of course, petting, playing with, dressing up, and taking pictures of everybody's dogs.
+
+{% include twitter-feed.html %}
 
 ## Our Ideals
 **We don't care** where you are from, what you look like, or what your heritage is. We don't care whether you live in the city or the country or the suburbs,
 or whether you worship the way we do (or not at all). It doesn't make a difference to us whether you have a little or a lot.
-We don't care about pedigrees, dipliomas or degrees unless we are helping you celebrate an accomplishment (in which case we
+We don't care about pedigrees, diplomas or degrees unless we are helping you celebrate an accomplishment (in which case we
 are super proud of you).
 
 **We do care** if you are kind. It matters to us that you are warm and compassionate to all humans and creatures.
@@ -19,8 +21,5 @@ We know there is unfathomable ugliness in the world and we give each other actua
 
 We may also be a *little bit* crazy. 
 
-## Tweets from BullyBash
-{% include twitter-feed.html %}
-
 ## Contact
-BullyBash organizers can be contacted via email at [contact@bullybash.com](mailto:contact@bullybash.com) or via Twitter [@BullyBashCLE](https://twitter.com/bullybashcle).
+BullyBash organizers can be contacted via email at [contact@bullybash.org](mailto:contact@bullybash.org) or via Twitter [@BullyBashCLE](https://twitter.com/bullybashcle).
