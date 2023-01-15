@@ -4,5 +4,5 @@ nav_title: Agenda
 permalink: /agenda
 layout: default
 ---
-## Coming Soon!
+## Coming Soon
 {% include twitter-feed.html %}

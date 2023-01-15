@@ -4,12 +4,10 @@ nav_title: Register
 permalink: /register
 layout: default
 ---
-BullyBash 2023 will take place Memorial Day Weekend (TODO - Dates) in
-Shaker Heights, Ohio, on the east side of Cleveland. For more information, see the [Agenda for BullyBash 2023](/agenda) 
+BullyBash 2023 will take place Memorial Day Weekend (May 26-28) in
+Shaker Heights, Ohio, just east of Cleveland.
 
-If you plan to attend in-person, please register below and the organizers will
-get back to you. Availability is limitied and spots are available on a first
-come, first served basis.If you just want to follow along online, follow BullyBash on Twitter 
+If you plan to attend in-person, please register below. If you just want to follow along online, follow BullyBash on Twitter 
 [@BullyBashCLE](https://twitter.com/bullybashcle) for live updates.
 
 {% include registration-form.html %}
