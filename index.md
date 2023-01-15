@@ -5,7 +5,7 @@ nav_title: Home
 ---
 ## What is BullyBash?
 BullyBash is an annual bulldog meetup in Cleveland, Ohio, created by people who met through their dogs on Twitter.
-Activities include everything from limo bus tours (with dogs, of course) to bulldog pool parties.
+Activities include everything from limo bus tours (with dogs and Moose Juice, of course) to bulldog pool parties.
 And, of course, petting, playing with, dressing up, and taking pictures of everybody's dogs.
 
 {% include twitter-feed.html %}
