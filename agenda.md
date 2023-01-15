@@ -1,4 +1,5 @@
 ---
+exclude: true
 title: BullyBash 2023 Agenda
 nav_title: Agenda
 permalink: /agenda
