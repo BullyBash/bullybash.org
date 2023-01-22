@@ -25,6 +25,11 @@ at a stop on the bus tour.
 
 Dog food is not provided, but water dishes are available.
 
+## Where should I stay?
+There are a variety of hotels in Beachwood, Ohio that are close to the event and pet friendly.
+[Home2Suites by Hilton]( https://www.hilton.com/en/hotels/clehtht-home2-suites-cleveland-beachwood/),
+located at 3589 Park East Drive, Beachwood OH, has been popular with BullyBash attendees. 
+
 ## Can I share my political views at BullyBash?
 Absolutely not. BullyBash is a time for everyone to come together and enjoy life. Politics can, at times, be divisive
 and the hosts respectfully request that everyone refrain from discussing politics during this event.
