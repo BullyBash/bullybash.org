@@ -5,16 +5,7 @@ permalink: /agenda
 layout: default
 ---
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=AGENDA&showPrint=0&showNav=0&showDate=0&showCalendars=0&showTabs=0&src=ZWJjNTdiZjc5Yjk0ZDEyODE5OGM1YjBkMzgzODBjMTVmODI1YTlkYzdlMmEyYmQ1NDQ4NjUxMDE2NWY0ZjNlZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23B39DDB&dates=20230525/20230528" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
+
 Weather permitting, the pool is open to everyone. All non-swimming dogs should have a life vest.
 In the "ball pit", popping the balls is not only permitted, but encouraged.  
-
-# Friday. May 26
-**6 - 10 p.m.** Dinner and playtime at the host's home.
-
-# Saturday, May 27
-**10 a.m. - 6 p.m.** Limo Bus tour of Cleveland and bar-hop.
-<br />**6 - 10 p.m.** Dinner and playtime at the host's home.
-
-# Sunday, May 28
-**10 a.m. - 1 p.m.** Brunch and goodbye, poolside at the home of the host.
-
