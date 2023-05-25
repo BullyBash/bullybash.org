@@ -21,6 +21,7 @@
 title: BullyBash
 email: contact@bullybash.org
 description: "What happens at BullyBash... gets blasted all over Twitter."
+google_analytics: "G-TCZGGMVWE9"
 
 # Build settings
 markdown: kramdown
